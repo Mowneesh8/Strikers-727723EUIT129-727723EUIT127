@@ -1,0 +1,43 @@
+.body{
+    background-color: cadetblue;
+    text-align: center;
+    justify-content: center;
+}
+
+.circle1{
+    height: 90px;
+    width: 190px;
+    border-radius: 50%;
+    background-color: brown;
+}
+
+.semi1{
+    height: 100px ;
+    width:  200px;
+    border-radius: 150px 150px 0px 0px;
+    background-color: rgb(240, 67, 110);
+    padding: 10px;
+}
+
+.semi2{
+    height: 100px ;
+    width:  200px;
+    border-radius: 0px 0px 150px 150px ;
+    background-color: rgb(253, 250, 251);
+    padding: 10px;
+}
+
+.circle2{
+    height: 50px;
+    width: 70px;
+    border-radius: 50%;
+    background-color: brown;
+}
+
+.circle3{
+    height: 40px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: rgb(221, 209, 87);
+}
+

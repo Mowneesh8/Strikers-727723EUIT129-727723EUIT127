@@ -1,0 +1,24 @@
+.body {
+    background-color: rgb(41, 80, 40);
+}
+
+.squ1{
+    display: flex;
+}
+
+.squ2{
+    display: flex;
+}
+
+.seg1{
+    width: 50%;
+    height: 50%;
+     border-radius:  0px 0px 150px 150px;
+     background-color: rgb(240, 233, 15);
+}
+.seg2{
+     width: 50%;
+     height: 50%;
+     border-radius: 150px 150px 0px 0px;
+     background-color: rgb(240, 233, 15);
+}
